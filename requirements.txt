@@ -1,0 +1,6 @@
+Flask==2.2.2
+PyJWT
+Joblib==1.2.0
+Numpy==1.22.4
+SQLAlchemy==1.4.44
+python-jose==3.3.0
